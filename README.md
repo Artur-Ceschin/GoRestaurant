@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="./src/assets/Github/logo.png" alt="Gorestaurant" />
 </h1>
-<p align="center">🚀 It is a place where you can sell you food</p>
+<p align="center">🚀 It is a place where you can sell your food</p>
 
 ## See how it works 📸
 ![gif project](./src/assets/Github/gorestaurant.gif)
